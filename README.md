@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullh_rabea" target="blank"><img src="https://img.shields.io/twitter/follow/abdullh_rabea?logo=twitter&style=for-the-badge" alt="abdullh_rabea" /></a> </p>
 
-- 🔭 I’m currently working at **Freelancer.com ** as freelancer
+- 🔭 I’m currently working at **Freelancer.com** as freelancer
 
 - 🌱 I’m currently learning **AI,Computer Theory, Computer graphics**
 
